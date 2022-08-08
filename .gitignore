@@ -21,6 +21,7 @@ htmlcov
 
 # virtualenvs
 .*env*/
+venv
 
 # VSCode
 .vscode
